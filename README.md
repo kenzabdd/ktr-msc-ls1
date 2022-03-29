@@ -1,1 +1,1 @@
-# ktr-msc-ls1
+Pour compiler le code, lancez la commande javac KTR.java puis java KTR.
